@@ -5,5 +5,3 @@ Welcome, Dolly!
 
 Hello, Dolly!
 Hello, Dolly!
-Good bye, Dolly!
-Welcome, Dolly!
