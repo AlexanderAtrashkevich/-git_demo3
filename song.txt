@@ -7,3 +7,6 @@ Hello, Dolly!
 Hello, Dolly!
 Good bye, Dolly!
 Welcome, Dolly!
+
+Good bye, Dolly!
+Welcome, Dolly!
